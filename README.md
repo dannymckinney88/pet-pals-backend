@@ -43,7 +43,7 @@ Pet Pals API is a Node.js and Express backend built around a PostgreSQL database
 
 ### Desktop version
 
-![Login](./petpals-screenshots/browser-pp-login.png)
+![Login](https://raw.githubusercontent.com/dannymckinney88/pet-pals-backend/danny/petpals-screenshots/browser-pp-login.png)
 ![Account Info](./petpals-screenshots/browser-pp-accountinfo.png)
 ![Homepage](./petpals-screenshots/browser-pp-home.png)
 ![Profile](./petpals-screenshots/browser-pp-profile.png)
