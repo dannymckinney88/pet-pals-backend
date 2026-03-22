@@ -42,29 +42,25 @@ Pet Pals API is a Node.js and Express backend built around a PostgreSQL database
 
 ### Desktop version
 
-<p>
-![Login](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots/browser-pp-login.png?raw=true)
-  <img src="./petpals-screenshots/browser-pp-accountinfo.png" alt="Account Info" width="300" />
-  <img src="./petpals-screenshots/browser-pp-home.png" alt="Homepage" width="300" />
-  <img src="./petpals-screenshots/browser-pp-profile.png" alt="Profile" width="300" />
-  <img src="./petpals-screenshots/browser-pp-mypets.png" alt="My Pets" width="300" />
-  <img src="./petpals-screenshots/browser-pp-searchresults.png" alt="Search" width="300" />
-  <img src="./petpals-screenshots/browser-pp-palsprofile.png" alt="Pals Profile" width="300" />
-  <img src="./petpals-screenshots/browser-pp-notifications.png" alt="Notifications" width="300" />
-</p>
+![Login](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-login.png?raw=true)
+![Account Info](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-accountinfo.png?raw=true)
+![Homepage](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-home.png?raw=true)
+![Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-profile.png?raw=true)
+![My Pets](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-mypets.png?raw=true)
+![Search](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-searchresults.png?raw=true)
+![Pals Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-palsprofile.png?raw=true)
+![Notifications](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-notifications.png?raw=true)
 
 ### Mobile version
 
-<p>
-  <img src="./petpals-screenshots/mobile-register.png" alt="Register" width="220" />
-  <img src="./petpals-screenshots/mobile-pp-login.png" alt="Login" width="220" />
-  <img src="./petpals-screenshots/mobile-pp-accountinfo.png" alt="Account Info" width="220" />
-  <img src="./petpals-screenshots/mobile-pp-homepage.png" alt="Homepage" width="220" />
-  <img src="./petpals-screenshots/mobile-profile.png" alt="Profile" width="220" />
-  <img src="./petpals-screenshots/results.png" alt="Search Result" width="220" />
-  <img src="./petpals-screenshots/mobile-pp-notifications.png" alt="Notifications" width="220" />
-  <img src="./petpals-screenshots/mobile-pp-palsprofile.png" alt="Pals Profile" width="220" />
-</p>
+![Register](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-register.png?raw=true)
+![Login](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-login.png?raw=true)
+![Account Info](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-accountinfo.png?raw=true)
+![Homepage](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-homepage.png?raw=true)
+![Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-profile.png?raw=true)
+![Search Result](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/results.png?raw=true)
+![Notifications](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-notifications.png?raw=true)
+![Pals Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-palsprofile.png?raw=true)
 
 ## Authentication
 
