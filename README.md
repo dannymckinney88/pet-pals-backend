@@ -67,7 +67,6 @@ Mobile version
 Authentication is implemented with Passport and a local email/password strategy. Login is handled through `/api/v1/auth/login`, registration through `/api/v1/auth/register`, and logout through `/api/v1/auth/logout`. The authenticated user is serialized into the session by user ID and restored on later requests. Passwords are hashed before user creation, and the user model includes a password validation helper.     
 
 ---
-
 ## API Routes
 
 All API routes are mounted under:
