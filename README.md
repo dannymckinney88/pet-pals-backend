@@ -38,30 +38,33 @@ Pet Pals API is a Node.js and Express backend built around a PostgreSQL database
 
   
 ---
-
 ## 📸 Screenshots
 
 ### Desktop version
 
-![Login](https://raw.githubusercontent.com/dannymckinney88/pet-pals-backend/danny/petpals-screenshots/browser-pp-login.png)
-![Account Info](./petpals-screenshots/browser-pp-accountinfo.png)
-![Homepage](./petpals-screenshots/browser-pp-home.png)
-![Profile](./petpals-screenshots/browser-pp-profile.png)
-![My Pets](./petpals-screenshots/browser-pp-mypets.png)
-![Search](./petpals-screenshots/browser-pp-searchresults.png)
-![Pals Profile](./petpals-screenshots/browser-pp-palsprofile.png)
-![Notifications](./petpals-screenshots/browser-pp-notifications.png)
+<p>
+  <img src="./petpals-screenshots/browser-pp-login.png" alt="Login" width="300" />
+  <img src="./petpals-screenshots/browser-pp-accountinfo.png" alt="Account Info" width="300" />
+  <img src="./petpals-screenshots/browser-pp-home.png" alt="Homepage" width="300" />
+  <img src="./petpals-screenshots/browser-pp-profile.png" alt="Profile" width="300" />
+  <img src="./petpals-screenshots/browser-pp-mypets.png" alt="My Pets" width="300" />
+  <img src="./petpals-screenshots/browser-pp-searchresults.png" alt="Search" width="300" />
+  <img src="./petpals-screenshots/browser-pp-palsprofile.png" alt="Pals Profile" width="300" />
+  <img src="./petpals-screenshots/browser-pp-notifications.png" alt="Notifications" width="300" />
+</p>
 
 ### Mobile version
 
-![Register](./petpals-screenshots/mobile-register.png)
-![Login](./petpals-screenshots/mobile-pp-login.png)
-![Account Info](./petpals-screenshots/mobile-pp-accountinfo.png)
-![Homepage](./petpals-screenshots/mobile-pp-homepage.png)
-![Profile](./petpals-screenshots/mobile-profile.png)
-![Search Result](./petpals-screenshots/results.png)
-![Notifications](./petpals-screenshots/mobile-pp-notifications.png)
-![Pals Profile](./petpals-screenshots/mobile-pp-palsprofile.png)
+<p>
+  <img src="./petpals-screenshots/mobile-register.png" alt="Register" width="220" />
+  <img src="./petpals-screenshots/mobile-pp-login.png" alt="Login" width="220" />
+  <img src="./petpals-screenshots/mobile-pp-accountinfo.png" alt="Account Info" width="220" />
+  <img src="./petpals-screenshots/mobile-pp-homepage.png" alt="Homepage" width="220" />
+  <img src="./petpals-screenshots/mobile-profile.png" alt="Profile" width="220" />
+  <img src="./petpals-screenshots/results.png" alt="Search Result" width="220" />
+  <img src="./petpals-screenshots/mobile-pp-notifications.png" alt="Notifications" width="220" />
+  <img src="./petpals-screenshots/mobile-pp-palsprofile.png" alt="Pals Profile" width="220" />
+</p>
 
 ## Authentication
 
