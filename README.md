@@ -39,27 +39,29 @@ Pet Pals API is a Node.js and Express backend built around a PostgreSQL database
   
 ---
 
-##### Screenshot(s)
+## 📸 Screenshots
 
-Desktop version
-![Login](petpals-screenshots/browser-pp-login.png)
-![AccountInfo](petpals-screenshots/browser-pp-accountinfo.png)
-![Homepage](petpals-screenshots/browser-pp-home.png)
-![Profile](petpals-screenshots/browser-pp-profile.png)
-![My Pets](petpals-screenshots/browser-pp-mypets.png)
-![Search](petpals-screenshots/browser-pp-searchresults.png)
-![Add Friends](petpals-screenshots/browser-pp-palsprofile.png)
-![Notifcations](petpals-screenshots/browser-pp-notifications.png)
+### Desktop version
 
-Mobile version
-![Register](petpals-screenshots/mobile-register.png)
-![Login](petpals-screenshots/mobile-pp-login.png)
-![Account Info](petpals-screenshots/mobile-pp-accountinfo.png)
-![Homepage](petpals-screenshots/mobile-pp-homepage.png)
-![Profile](petpals-screenshots/mobile-profile.png)
-![Search Result](petpals-screenshots/results.png)
-![Notifications](petpals-screenshots/mobile-pp-notifications.png)
-![Pals Profile](petpals-screenshots/mobile-pp-palsprofile.png)
+![Login](./petpals-screenshots/browser-pp-login.png)
+![Account Info](./petpals-screenshots/browser-pp-accountinfo.png)
+![Homepage](./petpals-screenshots/browser-pp-home.png)
+![Profile](./petpals-screenshots/browser-pp-profile.png)
+![My Pets](./petpals-screenshots/browser-pp-mypets.png)
+![Search](./petpals-screenshots/browser-pp-searchresults.png)
+![Pals Profile](./petpals-screenshots/browser-pp-palsprofile.png)
+![Notifications](./petpals-screenshots/browser-pp-notifications.png)
+
+### Mobile version
+
+![Register](./petpals-screenshots/mobile-register.png)
+![Login](./petpals-screenshots/mobile-pp-login.png)
+![Account Info](./petpals-screenshots/mobile-pp-accountinfo.png)
+![Homepage](./petpals-screenshots/mobile-pp-homepage.png)
+![Profile](./petpals-screenshots/mobile-profile.png)
+![Search Result](./petpals-screenshots/results.png)
+![Notifications](./petpals-screenshots/mobile-pp-notifications.png)
+![Pals Profile](./petpals-screenshots/mobile-pp-palsprofile.png)
 
 
 ## Authentication
