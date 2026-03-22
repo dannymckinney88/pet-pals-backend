@@ -38,33 +38,6 @@ Pet Pals API is a Node.js and Express backend built around a PostgreSQL database
 
   
 ---
-## 📸 Screenshots
-
-### Desktop version
-
-![Login](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-login.png?raw=true)
-![Account Info](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-accountinfo.png?raw=true)
-![Homepage](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-home.png?raw=true)
-![Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-profile.png?raw=true)
-![My Pets](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-mypets.png?raw=true)
-![Search](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-searchresults.png?raw=true)
-![Pals Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-palsprofile.png?raw=true)
-![Notifications](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-notifications.png?raw=true)
-
-### Mobile version
-
-![Register](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-register.png?raw=true)
-![Login](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-login.png?raw=true)
-![Account Info](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-accountinfo.png?raw=true)
-![Homepage](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-homepage.png?raw=true)
-![Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-profile.png?raw=true)
-![Search Result](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/results.png?raw=true)
-![Notifications](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-notifications.png?raw=true)
-![Pals Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-palsprofile.png?raw=true)
-
-## Authentication
-
-Authentication is implemented with Passport and a local email/password strategy. Login is handled through `/api/v1/auth/login`, registration through `/api/v1/auth/register`, and logout through `/api/v1/auth/logout`. The authenticated user is serialized into the session by user ID and restored on later requests. Passwords are hashed before user creation, and the user model includes a password validation helper.     
 
 ---
 ## API Routes
@@ -168,6 +141,36 @@ The images controller supports:
 - Pet image updates
 - Standard image CRUD operations
 
+
+## 📸 Screenshots
+
+### Desktop version
+
+![Login](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-login.png?raw=true)
+![Account Info](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-accountinfo.png?raw=true)
+![Homepage](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-home.png?raw=true)
+![Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-profile.png?raw=true)
+![My Pets](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-mypets.png?raw=true)
+![Search](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-searchresults.png?raw=true)
+![Pals Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-palsprofile.png?raw=true)
+![Notifications](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/browser-pp-notifications.png?raw=true)
+
+### Mobile version
+
+![Register](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-register.png?raw=true)
+![Login](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-login.png?raw=true)
+![Account Info](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-accountinfo.png?raw=true)
+![Homepage](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-homepage.png?raw=true)
+![Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-profile.png?raw=true)
+![Search Result](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/results.png?raw=true)
+![Notifications](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-notifications.png?raw=true)
+![Pals Profile](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mobile-pp-palsprofile.png?raw=true)
+
+## Authentication
+
+Authentication is implemented with Passport and a local email/password strategy. Login is handled through `/api/v1/auth/login`, registration through `/api/v1/auth/register`, and logout through `/api/v1/auth/logout`. The authenticated user is serialized into the session by user ID and restored on later requests. Passwords are hashed before user creation, and the user model includes a password validation helper.     
+
+
 ---
 
 ## 📁 Project Structure
@@ -262,11 +265,14 @@ It demonstrates backend fundamentals beyond basic CRUD through:
 - social relationship logic
 - multi-entity associations
 - structured REST API design
+  
+---
 
 ## ERD, Wireframe, & User Stories
 
-![ERD](petpals-screenshots/erd.png)
-![Wireframe](petpals-screenshots/petpals-wireframe.png)
+
+![ERD](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mpetpals-screenshots/erd.png?raw=true)
+![Wireframe](https://github.com/dannymckinney88/pet-pals-backend/blob/danny/petpals-screenshots%20/mpetpals-screenshots/petpals-wireframe.png?raw=true)
 
 ## Future Development
 
